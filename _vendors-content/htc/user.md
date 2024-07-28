@@ -12,7 +12,7 @@ If there are apps that you don’t want battery optimization enabled, you can tu
 
 * Tap **Battery optimization**.
 
-* Tap **Not optimized > All apps** to see the complete list of apps.
+* Tap **Not optimized > Allowing apps** to see the complete list of apps.
 
 * To turn off battery optimization in an app, tap the app name, and then tap **Don’t optimize > Done**.
 
